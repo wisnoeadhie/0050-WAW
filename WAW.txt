@@ -1,1 +1,2 @@
 echo "G.231.20.0050 - WISNU ADHIE WICAKSONO" > README
+G.231.20.0050 - Wisnu Adhie Wicaksono - Ini adalah praktikum Git Clone dan Update Data
