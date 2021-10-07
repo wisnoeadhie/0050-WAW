@@ -1,2 +1,3 @@
 ini adalah file baru yang digunakan dalam praktikum gi dan GitHub
 apa yang diperlukan dalam praktikum adalah internet, laptop dan keinginan untuk terus belajar dan bermanfaat baik
+G.231.20.0050 - Wisnu Adhie Wicaksono - Ini adalah praktikum Git Clone dan Update Data
