@@ -4,10 +4,3 @@ G231200050 - Wisnu Adhie Wicaksono - USM Jaya
 Universitas Semarang
 Fakultas Teknologi Informasi dan Komunikasi
 Jl. Soekarno-Hatta, Tlogosari Kulon
-=======
-G231200050 - Wisnu Adhie W - USM Jaya
-
-Unuversitas Semarang
-Jl.Soekarno Hatta, Tlogosari Kulon
-Fakultas Teknologi Informasi dan Komunikasi
->>>>>>> sub-0050-WAW
